@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.descriptionContainer {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.zoneDisplay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
