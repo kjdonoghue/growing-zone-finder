@@ -1,11 +1,5 @@
-h1 {
-    text-align: center;
-}
-
-.descriptionContainer {
-    display: flex;
-    justify-content: center;
-    width: 75%;
+body {
+    text-align: center
 }
 
 .inputContainer {
@@ -15,10 +9,13 @@ h1 {
 
 }
 
+.input {
+    margin: 5px;
+}
 
 .zoneDisplay {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
+
